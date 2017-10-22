@@ -1,3 +1,7 @@
+---
+layout: post
+title: Hello World
+---
 # 제 첫 글입니다.
 
 [TOC]
