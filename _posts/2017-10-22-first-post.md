@@ -78,7 +78,7 @@ cond(no)->op2->op1
 ![img]("URL") 만 쓰면, 이렇게
 ```
 
-![img](https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=imgres&cd=&cad=rja&uact=8&ved=0ahUKEwj4zrW5loTXAhWBNpQKHXX6BMUQjRwIBw&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25EB%25A7%2588%25ED%2581%25AC%25EB%258B%25A4%25EC%259A%25B4&psig=AOvVaw2YLPbwk1zcJp13Dqjf_BJ4&ust=1508759817719385)
+![img](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 
 
