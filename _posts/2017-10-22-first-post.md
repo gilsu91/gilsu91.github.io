@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: 제 첫 글입니다.
 ---
 # 제 첫 글입니다.
 
